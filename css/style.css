@@ -6,11 +6,15 @@
 
     p {
         background-color: lightblue;
-    }
+    }*/
 
-    body{
-        background-color: lightgray;
-    } */
+body {
+    background-image:url('../img/wikiimages-space-station-60615.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
 .bg-blue-h1 {
     background-color: blue;
     color: white;
@@ -57,16 +61,31 @@
     background-color: lightblue;
 }
 
-* {
+/* * {
     background-color: white;
     margin: 0;
     padding: 0;
 }
+ */
 
-body {
-    background-image:url('../img/background-image.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
+ .pg02-background {
+    background-color: lightblue;
+    margin: 20px;
+    padding: 10px;
+}
+
+#box1 {
+    background-color: rgb(189, 173, 230);
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 40px;
+    bottom: 20px;
+
+}
+#box2 {
+    background-color: rgb(22, 155, 200);
+    width: 200px;
+    height: 100px;
+
 }
