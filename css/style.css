@@ -14,13 +14,23 @@
 
     .bg-red-h1{
         background-color: red;
+        color: white;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 30px;
+        text-align: center;
+        letter-spacing: 2px;
+        text-decoration: underline dotted;
     }
     .bg-blue-p{
         background-color: blue;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     #pg-background{
         background-color: lightblue;
     }
-    *{
+/*     *{
         background-color: black;
-    }
+        margin: 0;
+        padding: 0;
+    } */
