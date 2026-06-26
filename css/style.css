@@ -94,3 +94,11 @@ body {
     bottom: 250px;
 
 }
+#box3{
+       background-color: rgb(167, 61, 16);
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    left: 30px;
+    bottom: 250px; 
+}
